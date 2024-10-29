@@ -17,7 +17,7 @@ title = "Portfolio"
 [params.author]
    name = "Никита Смирнов"
    email = "pyramidheadshark@gmail.com"
-   image = "img/test.png"
+   image = "img/test.jpg"
    imageQuality = 96
    headline = "I love sharks"
    bio = "Silly thingies"
